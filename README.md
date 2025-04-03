@@ -1,13 +1,8 @@
 # ML Model Deployment with FastAPI
 
 ## Overview
-This project demonstrates deploying a machine learning model (Random Forest Classifier trained on Iris dataset) using FastAPI and Docker.
+This project demonstrates deploying a machine learning model using FastAPI and Docker.
 
-## Components
-- `classification_task.py`: Model training script
-- `server.py`: FastAPI server for model predictions
-- `client.py`: Example client to test model predictions
-- `Dockerfile`: Containerization configuration
 
 ## Quick Start
 1. Train the model: `python classification_task.py`
